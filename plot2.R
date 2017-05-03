@@ -1,3 +1,4 @@
+# Load the data by sourcing the file with the code for loading the data.
 source("load_data.R")
 
 png("plot2.png")

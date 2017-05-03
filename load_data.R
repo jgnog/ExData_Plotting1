@@ -1,3 +1,8 @@
+# This file only loads the data
+# Other files will source this file to load the data.
+# This avoids duplication of code in the four files needed to produce the
+# plots.
+
 column_classes = c("character",
                    "character",
                    "numeric",
